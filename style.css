@@ -10,8 +10,9 @@
     margin-bottom: 50px;
 }
 .third-section{
-    margin-bottom: 100px;
+    margin-bottom: 150px;
 }
+
 .second-banner{
     margin-bottom: 95px;
 }
@@ -112,6 +113,7 @@
     
 }
 .online-heading{
+    font-weight: bold;
     text-align: center;
     margin-bottom: 80px;
 }
@@ -149,4 +151,17 @@
     height: 24px;
    margin-left: 60px;
    margin-bottom: 25px;
+}
+.testimonial img{
+    margin-bottom: 80px;
+    width: 120px;
+    height: 120px;
+}
+.testimonial-para{
+    margin-top: 15px;
+    margin-left: 50px;
+   line-height: 30px;
+    color:  #000000;
+    font-size: 16px;
+
 }
